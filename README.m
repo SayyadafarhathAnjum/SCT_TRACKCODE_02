@@ -1,4 +1,4 @@
-# 🛍️ Mall Customer Segmentation using K-Means Clustering
+.# 🛍️ Mall Customer Segmentation using K-Means Clustering
 
 A K-Means clustering model to group retail store customers based on their purchase history using the Mall Customer Dataset.
 
