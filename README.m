@@ -4,7 +4,6 @@ A K-Means clustering model to group retail store customers based on their purcha
 
 ## 📌 Task
 SkillCraft Technology - Task 02
-
 ## 📊 Dataset
 [Mall Customer Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
